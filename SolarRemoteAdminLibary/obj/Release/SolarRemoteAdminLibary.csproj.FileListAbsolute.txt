@@ -1,0 +1,11 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\SolarRemoteAdminLibary\bin\Release\SolarRemoteAdminLibary.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\SolarRemoteAdminLibary\bin\Release\SolarRemoteAdminLibary.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\SolarRemoteAdminLibary\obj\Release\SolarRemoteAdminLibary.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\SolarRemoteAdminLibary\obj\Release\SolarRemoteAdminLibary.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\SolarRemoteAdminLibary\bin\Release\Mono.Cecil.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\SolarRemoteAdminLibary\bin\Release\Mono.Cecil.Mdb.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\SolarRemoteAdminLibary\bin\Release\Mono.Cecil.Pdb.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\SolarRemoteAdminLibary\bin\Release\Mono.Cecil.Rocks.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\SolarRemoteAdminLibary\bin\Release\Splat.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\SolarRemoteAdminLibary\bin\Release\Splat.pdb
+C:\Users\Alex\documents\visual studio 2015\Projects\RemoteAdmin\SolarRemoteAdminLibary\obj\Release\SolarRemoteAdminLibary.csprojResolveAssemblyReference.cache

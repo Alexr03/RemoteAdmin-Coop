@@ -1,0 +1,11 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\RemoteAdmin\bin\Release\RemoteAdmin.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\RemoteAdmin\bin\Release\RemoteAdmin.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\RemoteAdmin\bin\Release\Assembly-CSharp-firstpass.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\RemoteAdmin\bin\Release\Assembly-CSharp.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\RemoteAdmin\bin\Release\Rocket.API.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\RemoteAdmin\bin\Release\Rocket.Core.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\RemoteAdmin\bin\Release\Rocket.Unturned.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\RemoteAdmin\bin\Release\UnityEngine.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\RemoteAdmin\obj\Release\RemoteAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\RemoteAdmin\obj\Release\RemoteAdmin.dll
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\RemoteAdmin\obj\Release\RemoteAdmin.pdb

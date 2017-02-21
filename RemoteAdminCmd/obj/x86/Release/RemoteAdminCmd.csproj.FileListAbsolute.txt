@@ -1,0 +1,4 @@
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\RemoteAdminCmd\bin\x86\Release\RemoteAdminCmd.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\RemoteAdminCmd\bin\x86\Release\RemoteAdminCmd.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\RemoteAdminCmd\obj\x86\Release\RemoteAdminCmd.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\RemoteAdmin\RemoteAdminCmd\obj\x86\Release\RemoteAdminCmd.pdb

@@ -1,0 +1,5 @@
+c:\users\alex\documents\visual studio 2015\Projects\RemoteAdmin\RemoteAdminCmd\bin\Debug\RemoteAdminCmd.exe
+c:\users\alex\documents\visual studio 2015\Projects\RemoteAdmin\RemoteAdminCmd\bin\Debug\RemoteAdminCmd.pdb
+c:\users\alex\documents\visual studio 2015\Projects\RemoteAdmin\RemoteAdminCmd\obj\Debug\RemoteAdminCmd.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\RemoteAdmin\RemoteAdminCmd\obj\Debug\RemoteAdminCmd.exe
+c:\users\alex\documents\visual studio 2015\Projects\RemoteAdmin\RemoteAdminCmd\obj\Debug\RemoteAdminCmd.pdb
